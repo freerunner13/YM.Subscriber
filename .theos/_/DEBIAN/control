@@ -1,0 +1,10 @@
+Package: ru.rj.ymsubscriber
+Name: YM.Subscriber
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Премиум аккаунт для Яндекс.Музыка
+Maintainer: Networke
+Author: Networke
+Section: Tweaks
+Version: 0.0.1
+Installed-Size: 72

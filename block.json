@@ -1,0 +1,76 @@
+{
+  "result" : {
+    "account" : {
+      "serviceAvailable" : true,
+      "secondName" : "",
+      "now" : "2021-10-25T00:32:24+00:00",
+      "uid" : "9999999",
+      "firstName" : "",
+      "login" : "Взломано Networke",
+      "hasInfoForAppMetrica" : false,
+      "registeredAt" : "2020-06-14T20:59:06+00:00",
+      "hostedUser" : false,
+    },
+    "subscription" : {
+      "autoRenewable" : [
+        {
+          "vendor" : "Yandex",
+          "product" : {
+            "debug" : false,
+            "trialDuration" : 0,
+            "P1Y" : 360,
+            "productId" : "ru.yandex.web.music.1year.autorenewable.notrial.native.plus.1690",
+            "trialPeriodDuration" : "P1Y",
+            "price" : {
+              "amount" : 1690.0,
+              "currency" : "RUB"
+            },
+            "duration" : 360,
+            "plus" : true,
+            "orderId" : 69953205,
+            "type" : "subscription",
+            "features" : [
+              "basic-music",
+              "basic-plus"
+            ],
+            "commonPeriodDuration" : "P1M",
+            "feature" : "basic-music"
+          },
+          "vendorHelpUrl" : "https://www.yandex.ru/support/music-app/subscription.xml",
+          "productId" : "ru.yandex.web.music.1year.autorenewable.notrial.native.plus.1690",
+          "expires" : "2077-07-21T04:08:51+03:00",
+          "finished" : false
+        }
+      ],
+      "nonAutoRenewableRemainder" : {
+        "days" : 0
+      },
+      "canStartTrial" : false,
+      "mcdonalds" : false
+    },
+    "subeditor" : false,
+    "permissions" : {
+      "until" : "2077-07-21T04:08:51+03:00",
+      "values" : [
+        "landing-play",
+        "feed-play",
+        "radio-play",
+        "mix-play",
+        "radio-skips",
+        "library-cache",
+        "library-play",
+        "high-quality",
+        "ads-skips",
+        "non-shuffled-play",
+        "background-play",
+        "play-premium-tracks",
+        "auto-flow",
+        "play-full-tracks",
+        "play-radio-full-tracks"
+      ],
+      "default" : [
+        "play-radio-full-tracks"
+      ]
+    },
+  },
+}
